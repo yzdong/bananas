@@ -3,8 +3,8 @@ print("bananas")
 
 # COMMAND ----------
 
-print("apples")
+print("cell is empty")
 
 # COMMAND ----------
 
-print("apricots")
+print("deleted cell")
